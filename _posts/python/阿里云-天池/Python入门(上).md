@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python入门(上)
-categories: [Python Study]
+categories: Python Study
 description: None
 keywords: Python, 初学
 ---
@@ -132,4 +132,8 @@ from decimal import Decimal
     <img src="/images/posts/blog/Python入门/导入方式的区别.png" alt="picture not found" style="zoom:80%;" />
     <br>
 </center>
+可以发现在第四行，第一种方式有前缀，第二种方式没有前缀。
 
+但是第二种方式在获取方法时报错，需要添加上第一种方式，才能找到对应的方法
+
+**建议**：使用第一种方式，代码会更清晰
