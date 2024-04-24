@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python入门(上)
-categories: Python Study
+categories: Blog
 description: None
 keywords: Python, 初学
 ---
