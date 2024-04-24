@@ -9,7 +9,7 @@ encoding: "utf-8"
 side_bar_repo_limit: 5
 
 author: Tang
-organization: UESTC
+# organization: UESTC
 organization_url: https://tangxing7028.github.io
 github_username: tangxing7028
 location: Chengdu, China
