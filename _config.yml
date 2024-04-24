@@ -33,9 +33,9 @@ navs:
   #   href: /projects/
   #   label: Projects
 
-#   -
-#     href: /categories/
-#     label: Blogs
+  -
+    href: /categories/
+    label: Blogs
 
   -
     href: /wiki/
