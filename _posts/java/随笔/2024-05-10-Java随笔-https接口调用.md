@@ -15,7 +15,7 @@ keywords: Java, Https, 报错
 这个报错意思是，请求的`URL`是`HTTPS`的，但是`ssl`证书和实际的主机域名不匹配，手工覆盖默认的校验规则即可。
 
 <center>
-    <img src="/images/posts/blog/Python入门/安全链接.png" alt="picture not found" style="zoom:80%;" />
+    <img src="/images/posts/blog/Java随笔/安全链接.png" alt="picture not found" style="zoom:80%;" />
     <br>
 </center>
 
