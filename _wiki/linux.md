@@ -68,3 +68,9 @@ lsof -c Vim
 netstat -tuln
 ```
 
+#### 开启端口
+
+```shell
+firewall-cmd --zone=public --add-port=8088/tcp --permanent
+```
+
