@@ -32,7 +32,7 @@ keywords: Linux, docker, 目录迁移
 4. 复制docker安装内容/var/lib/docker 到新的目录
 
    ``` shell
-   sudo mv -r /var/lib/docker /data1/lib
+   sudo mv /var/lib/docker /data1/lib
    ```
 
 5. 创建软连接
